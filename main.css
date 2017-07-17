@@ -1,0 +1,6 @@
+#myCanvas{
+
+    border: 10px solid orange;
+    background: url("Assets/background.jpg");
+    background-size:cover;
+}
